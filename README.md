@@ -3,54 +3,41 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22c55e&height=160&section=header&text=B%20NANDIVARDHAN%20REDDY&fontSize=36&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b5cff,100:22c55e&height=170&section=header&text=B%20NANDIVARDHAN%20REDDY&fontSize=38&fontColor=ffffff" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=700&lines=Embedded+Systems+%26+IoT+Engineer;ESP32+%7C+STM32+%7C+Firmware+Developer;AI-Enabled+EV+Battery+Swapping+Hub+Developer;Hardware+%2B+Software+Integration" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&center=true&vCenter=true&width=750&lines=AI-Enabled+EV+Battery+Swapping+Hub+%7C+ESP32;IoT-Based+Earthquake+Monitoring+System;ESP32-CAM+Surveillance+Robot;Smart+Automation+Systems" />
 </p>
 
 <p align="center">
   <a href="https://github.com/nandivardhan011">
-    <img src="https://img.shields.io/badge/GitHub-nandivardhan011-black?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-nandivardhan011-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/b-nandivardhan-reddy">
-    <img src="https://img.shields.io/badge/LinkedIn-B%20Nandivardhan%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-B%20Nandivardhan%20Reddy-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nandivardhan011&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nandivardhan011&theme=tokyonight" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,linux,vscode&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=raspberrypi,matlab,autocad&theme=dark" />
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-🎓 ECE student specializing in Embedded Systems and IoT.  
+🎓 Electronics and Communication Engineering student specializing in Embedded Systems and IoT.
 
-🛠️ Hands-on experience in microcontroller-based design, firmware development and hardware–software integration.  
+🛠️ Hands-on experience in microcontroller-based design, firmware development and hardware–software integration.
 
-💻 Worked with ESP32, STM32, LPC2148, ESP8266 and Arduino.  
+💻 Worked with ESP32, STM32, LPC2148, ESP8266 and Arduino.
 
-🔌 Experienced in GPIO, ADC, UART, SPI, I2C and PWM interfacing.  
+🔌 Experienced in GPIO, ADC, UART, SPI, I2C and PWM.
 
-🌐 Built IoT systems with cloud connectivity, real-time data acquisition and remote monitoring.  
+🌐 Built IoT systems with cloud connectivity, real-time data acquisition and remote monitoring.
 
-🚗 Developed an AI-enabled EV Battery Swapping Hub and smart automation projects.  
+🚗 Developed an AI-enabled EV Battery Swapping Hub and smart automation projects.
 
-🏭 Completed a 6-month industrial internship in PCB assembly and quality inspection.  
+🏭 Completed a 6-month industrial internship in PCB assembly and quality inspection.
 
-📄 Published a research paper in IJRAR on IoT-enabled monitoring systems.  
+📄 Published a research paper in IJRAR on IoT-enabled monitoring systems.
 
 ⚡ I try to spend at least 1 hour every day learning STM32 and improving my embedded system design skills.
 
@@ -113,13 +100,6 @@
 
 ---
 
-### 🏠 Smart Automation Systems
-- Relay-based appliance control  
-- Sensor-based automation logic  
-- IoT-enabled remote switching and monitoring  
-
----
-
 ## 🧑‍🏭 Industrial Internship
 
 **6-Month Industrial Internship – PCB Assembly & Quality Inspection**
@@ -153,4 +133,4 @@
 
 ---
 
-⭐ Feel free to explore my repositories and connect with me for collaboration in Embedded Systems, IoT and robotics projects.
+⭐ Feel free to explore my repositories and connect with me for collaboration in Embedded Systems and IoT projects.
